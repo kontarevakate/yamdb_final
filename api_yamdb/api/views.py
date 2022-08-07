@@ -9,8 +9,8 @@ from rest_framework.pagination import LimitOffsetPagination
 from rest_framework.response import Response
 from rest_framework_simplejwt.tokens import RefreshToken
 from reviews.models import Review
-from user.models import User
 from titles.models import Category, Genre, Title
+from user.models import User
 
 from .filters import TitleFilter
 from .mixins import CreateDestroyListGenericMixin
