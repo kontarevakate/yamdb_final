@@ -1,7 +1,5 @@
 from user.models import User
-
 from django.db import models
-
 from titles.models import Title
 
 CHOICES = tuple((x, str(x)) for x in range(1, 11))
