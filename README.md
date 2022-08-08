@@ -1,5 +1,8 @@
 ![Django-app workflow](https://github.com/kontarevakate/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
+# Публичный IP-адрес
+Проект доступен по адресу: http://158.160.0.121/redoc/
+
 # Описание:
 
 Проект YaMDb собирает отзывы пользователей на различные произведения.
